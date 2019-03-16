@@ -1,0 +1,10 @@
+package com.Никита.lesson_5;
+
+public class Main {
+    public static void main(String[] args) {
+        Third female = new Third();
+        Fourth male = new Fourth();
+        System.out.println(female);
+        System.out.println(male);
+    }
+}
